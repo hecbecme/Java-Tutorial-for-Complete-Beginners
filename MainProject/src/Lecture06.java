@@ -2,7 +2,9 @@
 public class Lecture06 {
 
 	public static void main(String[] args) {
-		// Variables
+		
+		// Using Variables
+		
 		int myNumber = 89;
 		short myShort = 847;
 		long myLong = 9797;
@@ -23,7 +25,7 @@ public class Lecture06 {
 		System.out.println(myChar);
 		System.out.println(myBoolean);
 		System.out.println(myByte);
-
+		
 	}
 
 }
